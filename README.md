@@ -4,6 +4,16 @@ ONE
 The Opportunistic Network Environment simulator.
 
 
+License
+=======
+
+The program is released under GPLv3 license. 
+Copyrights of the included map data of Helsinki downtown are owned by Maanmittauslaitos.
+
+
+
+
+
 The ONE v1.5.0 - Readme
 =======================
 
